@@ -1,4 +1,4 @@
-<h2 align="center">Hello there, I'm José Novais! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Hello gif"></h2>
+<h2 align="center">Hello World! I'm José Novais! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Hello gif"></h2>
 
 <p align="center">
   <em>A passionate 3rd-year student at Minho University, completing a degree in Telecommunications and Informatics, Guimarães, Portugal</em>
