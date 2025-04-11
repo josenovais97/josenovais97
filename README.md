@@ -1,12 +1,20 @@
-### Hi there, I'm José Novais <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
----
-- 👀 **Interesses:** Melhorar minhas habilidades de programação.  
-- 🌱 **Formação:** Atualmente a estudar na Universidade do Minho em Guimarães, Portugal.  
-- 💞️ **Objetivo:** Partilhar os projetos que tenho desenvolvido até agora e continuar a aprender em comunidade.
+<h2 align="center">Hello there, I'm José Novais! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
+
+<p align="center">
+  <em>A passionate student from Minho University in Guimarães, Portugal</em>
+</p>
 
 ---
 
-### Languages and Tools:
+### About Me
+- 👀 **Interests**: Improving my coding skills, exploring innovative tech projects, and collaborating with others.
+- 🌱 **Currently Studying**: Telecommunications and Informatics at Minho University.
+- 💞️ **Goal**: Share my projects and continue learning in a community-driven environment.
+- ⚡ **Fun Fact**: I'm always up for a challenge—be it a puzzle, code problem, or a new technology to explore.
+
+---
+
+### 🛠 Languages and Tools
 <p align="left">
   <!-- Arduino -->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -44,20 +52,22 @@
 
 ---
 
-### GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josenovais97&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+### 📊 GitHub Stats
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=josenovais97&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
 </p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=josenovais97&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=josenovais97&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josenovais97&" alt="GitHub Streak" />
+<p align="left">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=josenovais97&" alt="GitHub Streak" />
 </p>
 
 ---
+
+<h4 align="center">
+  Thanks for stopping by! Feel free to explore my repositories and connect with me on <a href="https://www.linkedin.com/in/jose-novais97/">LinkedIn</a>.
+</h4>
 
 <!---
 josenovais97/josenovais97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
