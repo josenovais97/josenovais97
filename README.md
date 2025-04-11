@@ -1,20 +1,20 @@
 <h2 align="center">Hello there, I'm José Novais! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Hello gif"></h2>
 
 <p align="center">
-  <em>A passionate student in my 3rd year at Minho University, completing a degree in Telecommunications and Informatics, Guimarães, Portugal</em>
+  <em>A passionate 3rd-year student at Minho University, completing a degree in Telecommunications and Informatics, Guimarães, Portugal</em>
 </p>
 
 ---
 
 ### About Me
-I'm a tech enthusiast who loves exploring both hardware and software challenges. I enjoy tackling complex puzzles, building innovative projects, and learning new technologies. Currently, I'm balancing studies with hands-on work in embedded systems and software design.
+I’m a tech enthusiast who loves both hardware and software challenges. I thrive on solving complex puzzles, developing innovative projects, and learning new technologies—ranging from embedded hardware to robust programming solutions. I also actively contribute to open-source projects and value community collaboration.
 
 ---
 
 ### What I Do
-- **Project Development**: Creating diverse projects ranging from embedded hardware (Arduino) to efficient C systems and robust Java applications.
-- **Continuous Learning**: Staying up to date with cutting-edge tech trends and refining my skills in both software and hardware.
-- **Community Engagement**: Contributing to open-source projects and collaborating with fellow tech enthusiasts.
+- **Project Development:** Building projects that involve microcontrollers, embedded systems (Arduino), and high-performance software (C, Java, Python).
+- **Continuous Learning:** Staying updated on the latest tech trends in both hardware and software.
+- **Community Engagement:** Collaborating with peers and contributing to open-source initiatives.
 
 ---
 
@@ -50,7 +50,7 @@ I'm a tech enthusiast who loves exploring both hardware and software challenges.
 
 ### GitHub Stats
 <p align="center">
-  <!-- Updated most used languages card with expanded view -->
+  <!-- Updated Most Used Languages Card -->
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=josenovais97&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
