@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @josenovais97
-- 👀 I’m interested in improving my codding
+- 👀 I’m interested in improving my coding
 - 🌱 I’m currently studying at Minho University in Guimarães, Portugal
 - 💞️ I’m looking to share the projects I've done so far.
 
