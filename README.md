@@ -1,20 +1,20 @@
 <h2 align="center">Hello there, I'm José Novais! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Hello gif"></h2>
 
 <p align="center">
-  <em>A passionate student of Telecommunications and Informatics at Minho University, Guimarães, Portugal</em>
+  <em>A passionate student in my 3rd year at Minho University, completing a degree in Telecommunications and Informatics, Guimarães, Portugal</em>
 </p>
 
 ---
 
 ### About Me
-I'm a tech enthusiast dedicated to honing my coding skills and exploring innovative projects. I thrive on challenges—whether it's solving complex puzzles, tackling real-world coding problems, or learning new technologies. I believe in the power of collaboration and community to push boundaries and drive meaningful change.
+I'm a tech enthusiast who loves exploring both hardware and software challenges. I enjoy tackling complex puzzles, building innovative projects, and learning new technologies. Currently, I'm balancing studies with hands-on work in embedded systems and software design.
 
 ---
 
 ### What I Do
-- **Project Development**: Building diverse projects ranging from embedded systems (Arduino) to high-performance C solutions and robust Java applications.
-- **Continuous Learning**: Exploring cutting-edge tech trends, system-level programming, and software design best practices.
-- **Community Engagement**: Actively contributing to open-source projects and collaborating with fellow tech enthusiasts.
+- **Project Development**: Creating diverse projects ranging from embedded hardware (Arduino) to efficient C systems and robust Java applications.
+- **Continuous Learning**: Staying up to date with cutting-edge tech trends and refining my skills in both software and hardware.
+- **Community Engagement**: Contributing to open-source projects and collaborating with fellow tech enthusiasts.
 
 ---
 
@@ -50,6 +50,7 @@ I'm a tech enthusiast dedicated to honing my coding skills and exploring innovat
 
 ### GitHub Stats
 <p align="center">
+  <!-- Updated most used languages card with expanded view -->
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=josenovais97&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
@@ -60,7 +61,7 @@ I'm a tech enthusiast dedicated to honing my coding skills and exploring innovat
   <a href="https://www.linkedin.com/in/jose-novais97/" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="mailto:josenovais@example.com" target="_blank" rel="noreferrer">
+  <a href="mailto:josenovais97@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
   </a>
 </p>
