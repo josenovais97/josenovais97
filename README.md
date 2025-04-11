@@ -7,15 +7,14 @@
 ---
 
 ### About Me
-I’m a tech enthusiast who loves both hardware and software challenges. I thrive on solving complex puzzles, developing innovative projects, and learning new technologies—ranging from embedded hardware to robust programming solutions. I also actively contribute to open-source projects and value community collaboration.
+I’m a tech enthusiast who loves both hardware and software challenges. I thrive on solving complex puzzles, developing innovative projects, and learning new technologies—ranging from embedded hardware to robust programming solutions.
 
 ---
 
 ### What I Do
-- **Project Development:** Building projects that involve microcontrollers, embedded systems (Arduino), and high-performance software (C, Java, Python).
+- **Project Development:** Building projects that involve microcontrollers, embedded systems (Arduino), IoT, and high-performance software (C, Java, Python).
 - **Continuous Learning:** Staying updated on the latest tech trends in both hardware and software.
-- **Community Engagement:** Collaborating with peers and contributing to open-source initiatives.
-
+  
 ---
 
 ### 🛠 Languages and Tools
