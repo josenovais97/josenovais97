@@ -50,7 +50,6 @@ I’m a tech enthusiast who loves both hardware and software challenges. I thriv
 
 ### GitHub Stats
 <p align="center">
-  <!-- Updated Most Used Languages Card -->
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josenovais97&layout=compact)
 </p>
 
