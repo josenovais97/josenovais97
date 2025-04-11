@@ -56,12 +56,6 @@
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=josenovais97&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
 </p>
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=josenovais97&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="left">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=josenovais97&" alt="GitHub Streak" />
-</p>
 
 ---
 
