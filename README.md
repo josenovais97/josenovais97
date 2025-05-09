@@ -44,8 +44,9 @@ I’m a tech enthusiast who loves both hardware and software challenges. I thriv
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
 <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-  <img src="https://miro.medium.com/v2/resize:fit:824/1*2EDK4Igf6sQLkhf97So06w.jpeg" alt="SQL" width="40" height="40"/>
+  <img src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure-thumbnail.png" alt="Microsoft SQL Server" width="40" height="40"/>
 </a>
+
 
 
   
