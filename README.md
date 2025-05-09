@@ -43,9 +43,10 @@ I’m a tech enthusiast who loves both hardware and software challenges. I thriv
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL Server" width="40" height="40"/>
+<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
+  <img src="https://miro.medium.com/v2/resize:fit:824/1*2EDK4Igf6sQLkhf97So06w.jpeg" alt="SQL" width="40" height="40"/>
 </a>
+
 
   
 </p>
