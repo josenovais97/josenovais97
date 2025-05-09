@@ -43,8 +43,8 @@ I’m a tech enthusiast who loves both hardware and software challenges. I thriv
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
+  <img src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png" alt="SQL" width="40" height="40"/>
 </a>
 
 
