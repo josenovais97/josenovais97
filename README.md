@@ -7,7 +7,7 @@
 ---
 
 ### 🧠 About Me
-I’m a tech enthusiast passionate about tackling both hardware and software challenges. I enjoy solving complex problems, building practical solutions, and diving into new technologies—from embedded systems to full-stack software development.
+I love creating things, whether it’s coding software or working with hardware. I’m always looking to learn, improve, and take on new challenges.
 
 ---
 
