@@ -24,8 +24,7 @@
 🔭 Currently building a **full-stack web application with Django** — REST APIs, backend logic, and all  
 🔌 Passionate about the intersection of **software and hardware** — from IoT sensors to the cloud  
 🛠️ Hands-on with **microcontrollers** (Arduino, ESP8266) and embedded systems  
-🌱 Always learning — currently diving deeper into **web development, networking, and system design** ⚡ If it can be built, I want to build it
-
+🌱 Always learning — currently diving deeper into **web development, networking, and system design**
 ---
 
 ### 🛠️ Languages & Tools
