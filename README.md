@@ -2,7 +2,7 @@
   <img src="header.svg" width="100%" alt="José Novais Header" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Bridging+Software+and+Hardware;Based+in+Guimar%C3%A3es%2C+Portugal;If+it+can+be+built%2C+I+want+to+build+it" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Software+and+Hardware;Based+in+Guimar%C3%A3es%2C+Portugal;If+it+can+be+built%2C+I+want+to+build+it" alt="Typing SVG" />
   </a>
   
   <br/>
@@ -17,12 +17,11 @@
 
 ---
 
----
-
 ### 🧠 About Me
 
 🎓 **Telecommunications and Informatics Engineering** graduate — University of Minho, Guimarães, Portugal  
-🌍 Based in **Guimarães, Portugal** 🔭 Currently building a **full-stack web application with Django** — REST APIs, backend logic, and all  
+🌍 Based in **Guimarães, Portugal** 
+🔭 Currently building a **full-stack web application with Django** — REST APIs, backend logic, and all  
 🔌 Passionate about the intersection of **software and hardware** — from IoT sensors to the cloud  
 🛠️ Hands-on with **microcontrollers** (Arduino, ESP8266) and embedded systems  
 🌱 Always learning — currently diving deeper into **web development, networking, and system design** ⚡ If it can be built, I want to build it
