@@ -1,21 +1,21 @@
 <div align="center">
-
   <img src="header.svg" width="100%" alt="José Novais Header" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Bridging+Software+and+Hardware;Based+in+Guimar%C3%A3es%2C+Portugal;If+it+can+be+built%2C+I+want+to+build+it" alt="Typing SVG" />
   </a>
-
+  
   <br/>
-
+  
   <a href="https://www.linkedin.com/in/jose-novais97/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:josenovais97@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
 </div>
+
+---
 
 ---
 
